@@ -1,0 +1,3 @@
+[submodule "submodule/libsharaku"]
+	path = submodule/libsharaku
+	url = https://github.com/sharaku/libsharaku.git
